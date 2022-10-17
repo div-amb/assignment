@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blood/static/css/main.eb48adf6.css",
+    "main.js": "/blood/static/js/main.cdb51939.js",
+    "index.html": "/blood/index.html",
+    "main.eb48adf6.css.map": "/blood/static/css/main.eb48adf6.css.map",
+    "main.cdb51939.js.map": "/blood/static/js/main.cdb51939.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb48adf6.css",
+    "static/js/main.cdb51939.js"
+  ]
+}
