@@ -1,0 +1,28 @@
+.laboratory-table{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.laboratory-th{
+    color: #ffff;
+    background-color: #1091D6;
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+}
+
+
+td{
+    padding-left: 10px;
+}
+
+.laboratory-content{
+    display: flex;
+}
+
+.laboratory-content-view{
+    margin-top: 15px;
+    position: absolute;
+    left: 43%;
+    text-decoration: none;
+}

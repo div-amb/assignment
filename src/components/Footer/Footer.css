@@ -1,0 +1,26 @@
+.footer{
+    text-align: center;
+}
+
+.footer-btn{
+    border: none;
+    height: 6vh;
+    width: 9vw;
+    background-color: #000;
+    color: #ffff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer-btn-content{
+    padding: 5px;
+}
+
+.fa-brands{
+    float: left;
+    font-size: 40px;
+}
+
+.app-store{
+    font-size: 25px;
+}

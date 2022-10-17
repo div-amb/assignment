@@ -1,0 +1,88 @@
+.atlas-header{
+    width: 100%;
+    margin-bottom: 20px;
+    height: 1vh;
+}
+
+.atlas-navbar-container{
+    display: flex;
+    background-color: #1091D6;
+    color: #ffff;
+    padding: 10px;
+    padding-left: 30px;
+    justify-content: left;
+    font-size: 20px;
+}
+
+.atlas-navbar-container-home{
+    color: #ffff;
+    text-decoration: none;
+}
+
+.atlas-navbar-container-atlas{
+    font-weight: 100;
+}
+
+.search-section{
+    background-color: #f6f6f6;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.search{
+    width: 40%;
+    height: 5vh;
+    margin-right: 5px;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+button{
+    height: 3vh;
+}
+
+.left{
+    margin-top: 10px;
+}
+
+.atlas-table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.atlas-row th{
+    background-color: #f6f6f6;
+    margin-bottom: 10px;
+}
+
+.atlas-row th, td{
+    text-align: left;
+    padding: 10px;
+    
+}
+
+tr:nth-child(odd) {
+    background-color: #f6f6f6;
+}
+
+.th-id{
+    margin-left: 20px;
+}
+
+.th-type{
+    margin-right: 25px;
+}
+
+.report-btn{
+    background-color: #1091D6;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+    color: #ffff;
+}
+
+.total-content{
+    padding-left: 10px;
+}

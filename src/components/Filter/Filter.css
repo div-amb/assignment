@@ -1,0 +1,36 @@
+.filter{
+    width: 20%;
+    margin-left: 50px;
+    margin-top: 126px;
+    position: absolute;
+    right: 50px;
+    background-color: #f8f8f8;
+}
+
+.filter-title{
+    background-color: #1091D6;
+    color: #ffff;
+    padding: 10px;
+    margin: 0;
+    font-size: 20px;
+}
+
+.by-lesson-title, .by-type-title{
+    font-size: 20px;
+}
+
+.by-type{
+    padding: 10px 20px 0;
+}
+
+.by-lesson{
+    padding: 0 20px 10px;
+}
+
+.filter-btn{
+    cursor: pointer;
+    border: none;
+    display: block;
+    background-color: #f8f8f8;
+    margin-bottom: 5px;
+}

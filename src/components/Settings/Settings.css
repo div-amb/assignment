@@ -1,0 +1,12 @@
+.settings-table{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.settings-th{
+    color: #ffff;
+    background-color: #1091D6;
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+}

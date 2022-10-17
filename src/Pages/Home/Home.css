@@ -1,0 +1,22 @@
+.container{
+    margin: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+}
+
+.title{
+    font-size: 40px;
+    font-weight: 200;
+    margin-bottom: 40px;
+}
+
+.right{
+    padding-left: 70px;
+}
+
+.recent-actions{
+    width: 40%;
+    padding: 20px;
+    background-color: #f8f8f8;
+    margin-top: 125px;
+}
